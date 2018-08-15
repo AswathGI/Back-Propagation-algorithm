@@ -1,10 +1,7 @@
 # Back-Propagation-algorithm
 
-This Code supports:
+#This Code supports:
+Two - inputs & One - Hidden Layer
 
-Two - inputs
-One - Hidden Layer
-
-Function used: 
-
+#Function used: 
 Bipolar Sigmoidal Function
